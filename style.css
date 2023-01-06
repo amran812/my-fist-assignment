@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Work Sans;
+  
+}
+
+/* header css start */
+.header-banner {
+  background-image: url(images/banner/banner1.png);
+  height: 100vh;
+  width: 100vw;
+  text-align: right;
+}
+
+.banner-h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: right;
+  color: #151414;
+  padding: 100px 90px 0px 0px;
+
+}
+
+.banner-para {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: right;
+  color: #444343;
+  padding: 20px 90px;
+
+}
+
+.contact-btn {
+  margin-right: 90px;
+  padding: 15px;
+  background-color: orange;
+  border: 0;
+}
+
+/* header css end */
+
+/*  story main css start */
+.my-story {
+  width: 1100px;
+  height: 100vh;
+  display: flex;
+  margin: 0 100px;
+
+
+}
+
+.my-img {
+  width: 600px;
+  height: 610px;
+  overflow: hidden;
+
+
+}
+
+.my-last-year {
+  width: 500px;
+  height: 300px;
+  margin: 200px 0 0 100px;
+
+}
+
+.failures-story {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  margin-bottom: 15px;
+
+}
+
+.my-story-para {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+  margin-bottom: 15px;
+
+}
+
+.ol-list {
+  margin-left: 20px;
+  line-height: 30px;
+
+}
+
+.my-plans {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  text-align: center;
+  margin: 130px 100px 15px 100px;
+
+}
+
+.plans {
+  display: flex;
+  width: 1100px;
+  height: 200px;
+  margin: 0px 100px;
+}
+
+.plans-list {
+  width: 250px;
+  padding: 5px;
+  
+}
+
+.plans-img {
+  width: 80px;
+  height: 80px;
+  margin-left:100px;
+}
+
+.plans-name {
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+  color: #151414;
+}
+
+.plans-para {
+  text-align: center;
+}
+
+/*  story main css end */
