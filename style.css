@@ -214,10 +214,45 @@
  width: 800px;
  margin: 100px 0px 0px 200px;
 }
+.left-h1{
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  letter-spacing: 0.5rem;
+  color:white;
+}
+.left-para{
+  margin-bottom: 10px;
+  line-height: 20px;
+  color:#fff;
+}
+.left-img{
+  margin:10px
+}
+
 .right-div{
- width:800px;
- margin:130px 230px 130px 0px;
- 
+  width:800px;
+  margin:130px 230px 130px 0px;
+}
+.right-h1{
+ color:#fff;
+ margin-bottom: 20px;
+}
+.right-input{
+  width: 200px;
+  padding: 15px;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  background-color: #fff;
+} 
+.right-btn{
+  display:block;
+  margin-top:15px;
+  width: 100px;
+  padding:10px;
+  background-color: orange;
+  border:0;
+  border-radius: 2px;
 }
 
 /* footer end */
